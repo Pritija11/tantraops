@@ -27,6 +27,10 @@ export const metadata: Metadata = {
   description:
     "TantraOps is an emerging AI and cybersecurity technology startup building intelligent systems, automation, and secure digital solutions for modern businesses.",
 
+  alternates: {
+  canonical: "/",
+},
+
   keywords: [
     "TantraOps",
     "TantraOps startup",
