@@ -9,9 +9,7 @@ export default function OrganizationSchema() {
     description:
       "TantraOps is an emerging AI and cybersecurity technology startup building intelligent systems, automation, and secure digital solutions for modern businesses.",
 
-    email: "contact@tantraops.com",
-
-    telephone: "977 1 4123456",
+    
 
     address: {
       "@type": "PostalAddress",
